@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archives on My New Hugo Site</title>
-    <link>https://example.org/archives/</link>
-    <description>Recent content in Archives on My New Hugo Site</description>
+    <title>Archives on Zitong Huang</title>
+    <link>https://zitonghuangcynthia.github.io/archives/</link>
+    <description>Recent content in Archives on Zitong Huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/archives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zitonghuangcynthia.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>https://example.org/archives/_index.fr/</link>
+      <link>https://zitonghuangcynthia.github.io/archives/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/archives/_index.fr/</guid>
+      <guid>https://zitonghuangcynthia.github.io/archives/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title>アーカイブ</title>
-      <link>https://example.org/archives/_index.ja/</link>
+      <link>https://zitonghuangcynthia.github.io/archives/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/archives/_index.ja/</guid>
+      <guid>https://zitonghuangcynthia.github.io/archives/_index.ja/</guid>
       <description></description>
     </item>
     <item>
       <title>归档</title>
-      <link>https://example.org/archives/_index.zh-cn/</link>
+      <link>https://zitonghuangcynthia.github.io/archives/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/archives/_index.zh-cn/</guid>
+      <guid>https://zitonghuangcynthia.github.io/archives/_index.zh-cn/</guid>
       <description></description>
     </item>
   </channel>
